@@ -1,0 +1,1 @@
+This version of Sensor03 runs directly off the ESP using a DHT22 to get temp and humid reading which are the written via a push to a MYSQL database.
