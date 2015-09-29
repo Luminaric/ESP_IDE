@@ -1,5 +1,5 @@
-#define SSID      "KWHA-S8AP"
-#define PASSWORD  "7f7928b109"
+#define SSID      "WAP_ID"
+#define PASSWORD  "PASSWORD"
 #define CH_PD 13
 #define HOST_NAME   "10.101.2.150"//INT.KWHA.ORG
 #define serverLH    "10.1.1.24"//Serenity
